@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 //Qui vanno definite le variabili
+  
 float a, b, c;
   
 cin >> a >> b >> c;
